@@ -26,3 +26,9 @@ Building web applications, APIs and automation tools with Django and FastAPI.
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasDvd04&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+<div>
+<a href="https://github.com/Guilherme_Tavares93">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDvd04&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDvd04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
