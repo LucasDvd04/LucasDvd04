@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lucas David
 
-<!--
-**LucasDvd04/LucasDvd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend Python focado em automação, APIs REST e aplicações web.
 
-Here are some ideas to get you started:
+Tenho experiência prática no desenvolvimento de projetos utilizando Django, FastAPI, SQL e integração de sistemas, criando soluções voltadas para automação de processos, manipulação de dados e aplicações web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+### Backend
+- Python
+- Django
+- FastAPI
+- APIs REST
+
+### Banco de Dados
+- PostgreSQL
+- SQL Server
+- MySQL
+
+### Ferramentas
+- Git
+- GitHub
+- Docker
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🐾 HelpPet
+Plataforma para divulgação de animais perdidos e adoção.
+
+### 🎬 6iAtlas
+Aplicação integrada com APIs de filmes e séries.
+
+### 🍕 PizzaXP
+Landing page desenvolvida para empresa real.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/seu-link
+- Portfólio: https://lucasdavid.onrender.com/
+- E-mail: lucas_david04@outlook.com
