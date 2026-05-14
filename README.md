@@ -1,4 +1,3 @@
-
 <h1 align="center">Lucas David</h1>
 
 <p align="center">
@@ -11,24 +10,22 @@ Building web applications, APIs and automation tools with Django and FastAPI.
 
 ---
 
-<p align="center">
-📍 Brasília, DF • 
-📧 lucas_david04@outlook.com
-</p>
+## 🚀 Tech Stack
 
-<p align="center">
-<a href="https://linkedin.com/in/lucasdavid-/">LinkedIn</a> •
-<a href="https://lucasdavid.onrender.com/">Portfolio</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,docker,git,postgres" />
 </p>
 
 ---
 
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasDvd04&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+## 📫 Contact
 
-<div>
-<a href="https://github.com/LucasDvd04">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDvd04&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDvd04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- Portfolio: https://lucasdavid.onrender.com/
+- LinkedIn: https://linkedin.com/in/lucasdavid-/
+- Email: lucas_david04@outlook.com
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasDvd04/LucasDvd04/output/snake.svg" alt="Snake animation" />
+</p>
