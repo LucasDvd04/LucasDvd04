@@ -26,6 +26,6 @@ Building web applications, APIs and automation tools with Django and FastAPI.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/LucasDvd04/LucasDvd04/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
