@@ -20,7 +20,7 @@ Building web applications, APIs and automation tools with Django and FastAPI.
 
 ## 📫 Contact
 
-- Portfolio: https://lucasdavid.onrender.com/
+- Portfolio: https://lucas-david.onrender.com/
 - LinkedIn: https://linkedin.com/in/lucasdavid-/
 - Email: lucas_david04@outlook.com
 
